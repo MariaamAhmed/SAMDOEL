@@ -1,0 +1,44 @@
+{
+  "hotels": [
+    {
+      "name": "LAWN SUIT",
+      "ratings": "3.4",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "SOFT",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "http://cdn.shopify.com/s/files/1/0083/4692/7181/products/p14953-digital-print-lawn-dress_1200x1200.jpg?v=1647839805"
+    },
+    {
+      "name": "COTTON SUIT",
+      "ratings": "2.4",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "FLORAL",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+       "imageUrl": "https://www.pakstyle.pk/images/blog/l/b255-ladies-cotton-suits-in-pakistan_14.jpg"
+    },
+    {
+      "name": "FASHION BOOKLET",
+      "ratings": "5.0",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "VOL-3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://img.freepik.com/free-vector/minimal-fashion-trifold-brochure-template_52683-39266.jpg?w=2000"
+    },
+    {
+      "name": "ACCESSORY",
+      "ratings": "4.5",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "METALIC",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://www.cleanorigin.com/blog/wp-content/uploads/2020/12/perfectpairings.jpg"
+    }
+  ]
+}
